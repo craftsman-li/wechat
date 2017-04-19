@@ -3,13 +3,13 @@ Awaken your wechat bot.
 
 ## INSTALLATION
 ```go
-go get github.com/KevinGong2013/ggbot/wechat
+go get github.com/craftsman-li/ggbot/wechat
 ```
 
 ## Basic Usage
 
 ```go
-import "github.com/KevinGong2013/wechat"
+import "github.com/craftsman-li/wechat"
 
 // awaken a bot
 bot, _ := wechat.AwakenNewBot(nil)
